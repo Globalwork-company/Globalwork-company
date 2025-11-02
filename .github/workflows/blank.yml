@@ -1,0 +1,16 @@
+name: Auto Commit Bot
+on:
+  schedule:
+    - cron: '0 10 * * *'
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: |
+          date >> activity.log
+          git config --global user.name 'Justin Ositu'
+          git config --global user.email 'justinositu0@gmail.com'
+          git add activity.log
+          git commit -m "Automated daily commit"
+          git push
