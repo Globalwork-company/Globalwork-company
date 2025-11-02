@@ -114,7 +114,7 @@ Reflects **front-end creativity backed by professional brand storytelling.**
 
 ## 🐍 Watch My Contributions Come Alive
 <p align="center">
-  <img src="https://github.com/Globalwork-company/Globalwork-company/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
