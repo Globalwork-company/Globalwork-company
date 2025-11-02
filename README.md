@@ -4,7 +4,12 @@
 <!-- ========================= -->
 
 <h1 align="center">👋 Hi, I'm Justin Ositu</h1>
-<h3 align="center">Full-Stack Developer | Systems Engineer | Founder of Wave Techs</h3>
+
+<h3 align="center">
+  <a href="https://github.com/Globalwork-company">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Systems+Engineer;Founder+of+Wave+Techs;Building+Scalable+Digital+Solutions" alt="Typing SVG" />
+  </a>
+</h3>
 
 <p align="center">
   <a href="mailto:justinositu0@gmail.com"><img src="https://img.shields.io/badge/Email-justinositu0%40gmail.com-06B6D4?style=flat&logo=gmail&logoColor=white" /></a>
@@ -17,67 +22,67 @@
 ---
 
 ## 🌐 About Me
-👨‍💻 I'm a full-stack developer based in **Kenya**, passionate about building dependable systems that solve real-world problems.  
-🚀 Founder of **Wave Techs**, I focus on web solutions, system automation, and digital innovation.  
-💡 Skilled in **PHP**, **React**, **MySQL**, and **JavaScript**, with a love for **clean architecture and optimized logic**.  
-🧩 I code with precision, clarity, and scalability in mind — no fluff, just smart software.
+👨‍💻 I’m a **Full-Stack Developer** from **Kenya**, passionate about building scalable systems that solve real-world problems.  
+🚀 Founder of **[Wave Techs](https://github.com/Globalwork-company)** — crafting web solutions, automation tools, and smart digital systems.  
+💡 Skilled in **PHP**, **React**, **MySQL**, and **JavaScript**, I focus on clean architecture, maintainability, and performance-driven design.  
+🧩 I believe great software is **not just functional, but intuitive and built to last**.
 
 ---
 
 ## 🧠 Featured Projects
 
 ### 📝 Write Freelance Platform
-A fully functional freelance marketplace connecting writers and clients seamlessly.  
+A full freelance marketplace connecting writers and clients seamlessly.  
 **Tech Stack:** PHP, MySQL, Bootstrap  
-**Key Highlights:**
-- Secure client–writer project channels.  
-- Built-in payment and project tracking workflows.  
-- Real-time analytics dashboard and performance reports.  
-This project proves my capability in **backend engineering, UX workflow design, and automation.**
+**Highlights:**
+- Secure, role-based client–writer communication channels.  
+- Built-in payment handling and progress tracking.  
+- Real-time analytics dashboards.  
+This system demonstrates mastery in **backend logic, workflow automation, and UX design**.
 
 ---
 
 ### 🎟️ Party Check (QR Event Manager)
-Event check-in system that uses **unique, single-use QR codes** for guests.  
+An advanced check-in system that generates and validates **unique, single-use QR codes** for guests.  
 **Tech Stack:** Deno, HTML, JavaScript  
-**Core Features:**
-- Generates tamper-proof QR codes per guest.  
-- Tracks real-time attendance with instant validation.  
-- Prevents duplicate check-ins automatically.  
-A clean example of **security-driven design and system integrity.**
+**Features:**
+- Tamper-proof QR generation.  
+- Real-time attendance validation.  
+- Prevents double check-ins automatically.  
+This project showcases **secure event logic and real-time tracking precision**.
 
 ---
 
 ### 🌍 Globalwork Platform
-Recruitment and documentation system managing **international job placement**.  
+An international recruitment and document management platform.  
 **Tech Stack:** PHP, MySQL  
 **Features:**
-- Multi-user dashboards for admins and clients.  
-- Document upload & verification flow.  
-- Live tracking of application progress.  
-Built for real operations — not theory — proving scalability and solid architecture.
+- Multi-role user dashboards.  
+- Document upload and verification process.  
+- Real-time job application tracking.  
+Proves expertise in **system architecture, database design, and user experience flow.**
 
 ---
 
 ### 🏡 Airbnb-Style Booking System
-A property listing and booking site similar to Airbnb.  
+A full property booking system inspired by Airbnb’s structure.  
 **Tech Stack:** PHP, HTML/CSS, MySQL  
 **Features:**
-- Add and manage listings with photos.  
-- Bookings handled with date validation and user authentication.  
-- Simple, responsive interface.  
-This project demonstrates **database design, authentication, and UI/UX execution.**
+- Add/manage listings with photos.  
+- Secure booking and authentication.  
+- Responsive interface for all devices.  
+Demonstrates **database engineering, authentication, and clean UI development.**
 
 ---
 
 ### 💻 Wave Techs Portfolio
-A responsive React-based portfolio site showcasing Wave Techs services and my work.  
+A modern, animated portfolio website built to represent my brand.  
 **Tech Stack:** React, Tailwind CSS  
 **Features:**
-- Animated hero section and interactive gallery.  
-- Dark/light mode support.  
-- Contact form and smooth scrolling effects.  
-**Why it matters:** It’s a real-world example of front-end craft combined with brand storytelling.
+- Smooth scrolling, dark/light themes, and interactive galleries.  
+- Animated hero section with service highlights.  
+- Contact form and integrated social links.  
+Reflects **front-end creativity backed by professional brand storytelling.**
 
 ---
 
@@ -103,6 +108,13 @@ A responsive React-based portfolio site showcasing Wave Techs services and my wo
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Globalwork-company&layout=compact&theme=tokyonight" width="48%">
+</p>
+
+---
+
+## 🐍 Watch My Contributions Come Alive
+<p align="center">
+  <img src="https://github.com/Globalwork-company/Globalwork-company/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
